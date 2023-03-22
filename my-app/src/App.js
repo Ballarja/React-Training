@@ -3,6 +3,7 @@ import './App.css';
 
 function App() {
   return (
+    //start of react app
     <div className='mt-5 container'>
       <div className='card'>
         <div className='card-header'>
