@@ -21,7 +21,7 @@ function App() {
             <tbody>
               <tr>
                 <th scope='row'>1</th>
-                <td>Feed dog</td>
+                <td>Feed dogs</td>
                 <td>Eric</td>
               </tr>
               <tr>
